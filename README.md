@@ -1,2 +1,2 @@
-# Followed tutorial by Ninja Tutorials. Check him out!
+# Application link:
 https://osidabu-alrub.github.io/react-notes-app/
